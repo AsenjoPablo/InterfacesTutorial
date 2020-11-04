@@ -30,7 +30,7 @@ public class App extends JFrame implements ActionListener, ItemListener, ChangeL
         mb = new JMenuBar();
         setJMenuBar(mb);
 
-        menu1 = new JMenu("Colores");
+        menu1 = new JMenu("Color");
         mb.add(menu1);
 
         mitem1 = new JMenuItem("Rojo");
